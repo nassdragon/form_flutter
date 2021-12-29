@@ -118,7 +118,7 @@ class _MyPageState extends State<MyPage> {
                       child: Column(
                         crossAxisAlignment: CrossAxisAlignment.start,
                         children: [
-                          Text('Data Ditambahkan'),
+                          Text('Data Ditambahkan adalah'),
                           Text('NISN : $NISN'),
                           Text('Nama lengkap : $namaLengkap'),
                         ],
